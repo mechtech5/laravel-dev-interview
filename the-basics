@@ -1,0 +1,11 @@
+Q. WHAT IS LARAVEL?
+A. Laravel is an opinionated PHP framework. It abstracts away the minutiae of building a web application to facilitate productivity, maintenance, and forward compatibility.
+
+Q. WHAT IS REST?
+A. REpresentational State Transfer (REST) and RESTful web services represent a style of network communication between applications to transfer application states through a stateless protocol (such as HTTP).
+
+Q. WHAT IS THE DIFFERENCE BETWEEN JSON AND XML?
+A. JSON and XML are textual data formats. JSON (JavaScript Object Notation) uses JavaScript syntax to represent data and make it parseable while XML (eXtensible Markup Language) uses markup tagging and nesting to achieve the same thing.
+
+Q. WHAT IS COMPOSER?
+A. Composer is a package manager for PHP that manages software dependencies on an application level.
